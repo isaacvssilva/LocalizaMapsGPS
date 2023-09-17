@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "408923329635",
+    "firebase_url": "https://localizamaps-dcbd8-default-rtdb.firebaseio.com",
+    "project_id": "localizamaps-dcbd8",
+    "storage_bucket": "localizamaps-dcbd8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:408923329635:android:9cb40f26181ffebaf85456",
+        "android_client_info": {
+          "package_name": "com.example.leituradb"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCXiHSl03Cbj_07PCDQLSh7rSFxPOsDx_o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:408923329635:android:9668328164e600c4f85456",
+        "android_client_info": {
+          "package_name": "com.example.localizamaps"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCXiHSl03Cbj_07PCDQLSh7rSFxPOsDx_o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:408923329635:android:2fbb8adfad47377cf85456",
+        "android_client_info": {
+          "package_name": "com.example.localizamapsgps"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCXiHSl03Cbj_07PCDQLSh7rSFxPOsDx_o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
